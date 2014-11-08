@@ -1,0 +1,28 @@
+{
+  "name": "didumean",
+  "description": "A \"Did you mean\" system in nodejs.",
+  "author": "Dimitri Nicolas",
+  "scripts": {
+    "build": "grunt",
+    "dev": "grunt dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitrinicolas/did-u-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dimitrinicolas/did-u-mean/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-sass": "^0.16.1",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-nodemon": "^0.3.0",
+    "grunt-react": "^0.10.0",
+    "socket.io": "~1.0.4"
+  }
+}

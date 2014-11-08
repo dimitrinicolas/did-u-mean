@@ -1,0 +1,19 @@
+
+/* INPUT
+   ============================= */
+
+.input {
+
+	display: block;
+	width: 400px;
+	margin: 32px auto;
+	padding: 16px;
+
+	border: 1px solid #E5E5E5;
+
+	@include z-depht(1);
+	@include border-radius(5px);
+	@include font-title(20px);
+	@include font-light;
+
+}

@@ -1,0 +1,12 @@
+{
+
+    "ignore": [
+
+        "assets",
+        "bin",
+        "scripts",
+        "styles"
+
+    ]
+
+}
